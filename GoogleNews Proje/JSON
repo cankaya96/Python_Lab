@@ -1,0 +1,58 @@
+{
+        "text":  "{} : {} zaman diliminde News Google verilerine göre {} kategorisindeki ilk {} haber." ,
+        "attachments": [{
+          "title": "",
+          "image_url": "https://www.androidpolice.com/wp-content/uploads/2018/05/google-news-hero.png"
+        },{
+          "color": "6ecadc",
+          "title": "*HEADER*",
+          "title_link": "*URL*",
+          "author_icon": "http://a.slack-edge.com/7f18/img/api/homepage_custom_integrations-2x.png",
+          "fields": [
+            {
+              "title": "#Kaynak",
+              "value": "*SOURCE*",
+              "short": "true"
+            },
+            {
+              "title": "#Sure",
+              "value": "*TIME*",
+              "short": "true"
+            }
+          ]
+        },{
+          "color": "6ecadc",
+          "title": "*HEADER*",
+          "title_link": "*URL*",
+          "author_icon": "http://a.slack-edge.com/7f18/img/api/homepage_custom_integrations-2x.png",
+          "fields": [
+            {
+              "title": "#Kaynak",
+              "value": "*SOURCE*",
+              "short": "true"
+            },
+            {
+              "title": "#Sure",
+              "value": "*TIME*",
+              "short": "true"
+            }
+          ]
+        },{
+          "color": "6ecadc",
+          "title": "*HEADER*",
+          "title_link": "*URL*",
+          "author_icon": "http://a.slack-edge.com/7f18/img/api/homepage_custom_integrations-2x.png",
+          "fields": [
+            {
+              "title": "#Kaynak",
+              "value": "*SOURCE*",
+              "short": "true"
+            },
+            {
+              "title": "#Sure",
+              "value": "*TIME*",
+              "short": "true"
+            }
+          ]
+        }]
+}
